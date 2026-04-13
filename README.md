@@ -27,3 +27,6 @@ FinIntel is a real-time financial intelligence dashboard that integrates Retriev
 - Secure API key handling
 - Database for knowledge indexing
 - Deployment with live hosting
+
+## Demo
+ https://vxhll.github.io/FinIntel-RAG-Financial-Dashboard/
